@@ -1,18 +1,11 @@
-###################
-Frontend CRUD Employee
-###################
-
+## Frontend CRUD Employee
 Repository ini merupakan **Sistem frontend CRUD Employee** yang dibangun menggunakan **CodeIgniter 3** dan **Bootstrap** dengan **mengonsumsi REST API Employee** untuk menampilkan dan mengelola data karyawan.
 
-*******************
 ## 🎯 Tujuan Sistem
-*******************
 - Menampilkan data Employee dari REST API
 - Melakukan operasi CRUD (Create, Read, Update, Delete)
 
-**************************
-🧠 Penjelasan Sistem
-**************************
+## 🧠 Penjelasan Sistem
 Sistem frontend ini dijalankan pada **local environment** menggunakan **Apache (XAMPP)**,  
 karena aplikasi dikembangkan menggunakan **PHP server-side (CodeIgniter 3)**.
 Oleh karena itu, sistem **tidak dideploy ke hosting online**.
