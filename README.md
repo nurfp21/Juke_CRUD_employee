@@ -9,8 +9,5 @@ Repository ini merupakan **Sistem frontend CRUD Employee** yang dibangun menggun
 Sistem frontend ini dijalankan pada **local environment** menggunakan **Apache (XAMPP)**,  
 karena aplikasi dikembangkan menggunakan **PHP server-side (CodeIgniter 3)**.
 Oleh karena itu, sistem **tidak dideploy ke hosting online**.
-Akses sistem frontend dapat dilakukan melalui:
-`<http://localhost/tampil_juke_employee/index.php/employee>`_
-Untuk menggunakan sistem ini, **REST API Employee harus dijalankan terlebih dahulu**  
-menggunakan **Docker**, kemudian frontend dapat dijalankan melalui alamat di atas  
-untuk mengonsumsi data dari API tersebut.
+Akses sistem frontend dapat dilakukan melalui: http://localhost/tampil_juke_employee/index.php/employee .
+Untuk menggunakan sistem ini, **REST API Employee harus dijalankan terlebih dahulu** menggunakan **Docker**, kemudian frontend dapat dijalankan melalui alamat di atas untuk mengonsumsi data dari API tersebut.
